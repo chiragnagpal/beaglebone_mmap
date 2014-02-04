@@ -1,0 +1,1 @@
+The above code contains a header file, beaglebone_gpio.h and a source file gpi.c Just compile the gpi.c on your beaglebone using gcc, and run it. Make sure you have first exported pin P9_12 as a GPIO using an appropriate device tree overlay
